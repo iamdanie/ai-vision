@@ -1,0 +1,8 @@
+{
+  "steps": [
+    {
+      "name": "linter",
+      "command": "npm run lint"
+    }
+  ]
+}

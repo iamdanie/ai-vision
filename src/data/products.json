@@ -1,0 +1,381 @@
+[
+  {
+    "brand": "Prada",
+    "categories": ["shoes", "boots", "booties"],
+    "description": "Monolith brushed leather booties",
+    "price": 1500.0,
+    "currency": "USD",
+    "tags": [
+      "prada",
+      "boots",
+      "chunky",
+      "classy",
+      "black",
+      "dark",
+      "logo",
+      "shoe",
+      "shoes"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#000"],
+        "size": "38 (IT)",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#000"],
+        "size": "39 (IT)",
+        "stock": 1
+      },
+      {
+        "variationId": "3",
+        "colors": ["#000"],
+        "size": "40 (IT)",
+        "stock": 13
+      },
+      {
+        "variationId": "4",
+        "colors": ["#000"],
+        "size": "41 (IT)",
+        "stock": 4
+      }
+    ],
+    "assets": ["/products/img/prada-monolith-1.png"]
+  },
+  {
+    "brand": "Gucci",
+    "categories": ["accesories", "belt"],
+    "tags": [
+      "accesory",
+      "white",
+      "belt",
+      "gucci",
+      "classy",
+      "expensive",
+      "golden buckle",
+      "gold"
+    ],
+    "description": "Double G Gucci belt",
+    "price": 499.0,
+    "currency": "USD",
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "105",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "95",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/gucci-belt.png"]
+  },
+  {
+    "brand": "Nike",
+    "categories": ["shoes", "sports"],
+    "description": "Nike Air Force 1 07 Doll sneakers",
+    "price": 189.9,
+    "currency": "USD",
+    "tags": [
+      "white",
+      "nike",
+      "air force",
+      "air",
+      "force",
+      "sneakers",
+      "all white",
+      "shoe",
+      "sneaker"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "41",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/nike-af1.png"]
+  },
+  {
+    "brand": "Prada",
+    "categories": ["shoes", "sandals"],
+    "description": "Prada monolith caged chunky sandals",
+    "price": 1299.0,
+    "currency": "USD",
+    "tags": [
+      "prada",
+      "black",
+      "sandals",
+      "sandal",
+      "chunky",
+      "classy",
+      "open",
+      "toes",
+      "caged"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "41",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "42",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/prada-sandals.png"]
+  },
+  {
+    "brand": "Balmain",
+    "categories": ["cardigan", "coat", "sweaters"],
+    "description": "Balmain black cardigan",
+    "price": 1999.99,
+    "currency": "USD",
+    "tags": [
+      "cardigan",
+      "coat",
+      "sweater",
+      "balmain",
+      "button",
+      "black",
+      "short"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variationId": "3",
+        "colors": ["#FFF"],
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "variationId": "4",
+        "colors": ["#FFF"],
+        "size": "L",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/black-cardigan1.png"]
+  },
+  {
+    "brand": "Sandro",
+    "categories": ["cardigan", "coat", "sweater"],
+    "description": "Sandro black cardigan",
+    "price": 1499.0,
+    "currency": "USD",
+    "tags": [
+      "cardigan",
+      "coat",
+      "sweater",
+      "balmain",
+      "button",
+      "black",
+      "short",
+      "classy"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "XS",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variationId": "3",
+        "colors": ["#FFF"],
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "variationId": "4",
+        "colors": ["#FFF"],
+        "size": "L",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/sandro-cardigan.png"]
+  },
+  {
+    "brand": "Sandro",
+    "categories": ["skirt", "tweed", "miniskirt"],
+    "description": "Ruffle-trim tweed miniskirt",
+    "price": 300.99,
+    "currency": "USD",
+    "tags": [
+      "skirt",
+      "miniskirt",
+      "tweed",
+      "button",
+      "ruffle",
+      "trim",
+      "pink",
+      "blue",
+      "black"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#FFF"],
+        "size": "XS",
+        "stock": 12
+      },
+      {
+        "variationId": "2",
+        "colors": ["#FFF"],
+        "size": "S",
+        "stock": 12
+      },
+      {
+        "variationId": "3",
+        "colors": ["#FFF"],
+        "size": "M",
+        "stock": 12
+      },
+      {
+        "variationId": "4",
+        "colors": ["#FFF"],
+        "size": "L",
+        "stock": 1
+      }
+    ],
+    "assets": ["/products/img/sandro-skirt.jpg"]
+  },
+  {
+    "brand": "By Far",
+    "categories": ["purse", "bag", "mini bag"],
+    "description": "Rachel mini bag",
+    "price": 999.99,
+    "currency": "USD",
+    "tags": [
+      "purse",
+      "bag",
+      "mini bag",
+      "purple",
+      "rachel",
+      "chain",
+      "shiny",
+      "purple",
+      "pink",
+      "small"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#A04492"],
+        "size": "One size",
+        "stock": 12
+      }
+    ],
+    "assets": ["/products/img/rachel-bag.png"]
+  },
+  {
+    "brand": "Van Palma",
+    "categories": ["hat", "accesories", "head", "cowboy"],
+    "description": "Wool-felt cowboy hat",
+    "price": 1999.99,
+    "currency": "USD",
+    "tags": ["hat", "cowboy", "head", "pink", "chain", "wool", "accesories"],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#A04492"],
+        "size": "One size",
+        "stock": 12
+      }
+    ],
+    "assets": ["/products/img/cowboy-hat.jpg"]
+  },
+  {
+    "brand": "H&M",
+    "categories": ["hat", "accesories", "head", "cowboy"],
+    "description": "Black cowboy hat",
+    "price": 99.98,
+    "currency": "USD",
+    "tags": ["hat", "cowboy", "head", "black", "chain", "wool", "accesories"],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#000000"],
+        "size": "One size",
+        "stock": 8
+      }
+    ],
+    "assets": ["/products/img/cowboy-black-hat.jpg"]
+  },
+  {
+    "brand": "Off-White",
+    "categories": ["denim", "jacket", "jeans", "cowboy"],
+    "description": "Shor-sized denim jacket",
+    "price": 59.99,
+    "currency": "USD",
+    "tags": [
+      "denim",
+      "jacket",
+      "jeans",
+      "jean",
+      "cowboy",
+      "blue",
+      "light blue"
+    ],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#A04492"],
+        "size": "One size",
+        "stock": 12
+      }
+    ],
+    "assets": ["/products/img/denim-jacket.jpg"]
+  },
+  {
+    "brand": "RE/DONE",
+    "categories": ["denim", "jeans", "cowboy"],
+    "description": "Stove Pipe jeans",
+    "price": 999.99,
+    "currency": "USD",
+    "tags": ["denim", "jeans", "jean", "pants", "blue", "light blue", "mom"],
+    "productVariations": [
+      {
+        "variationId": "1",
+        "colors": ["#A04492"],
+        "size": "One size",
+        "stock": 5
+      }
+    ],
+    "assets": ["/products/img/jeans.jpg"]
+  }
+]

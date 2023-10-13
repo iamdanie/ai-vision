@@ -1,0 +1,5 @@
+[contentEditable=true]:empty:before {
+    content: attr(placeholder);
+    pointer-events: none;
+    color: #606E78;
+}
